@@ -28,6 +28,9 @@ Inspired by the philosophy of empowering HR teams by balancing AI automation wit
 * **State Management:** Employs a robust state machine managed via Flask session to guide the conversation flow.
 * **Background Processing:** Calendar booking and sheet updates are handled in a background thread to prevent blocking call responses.
 
+## Demo Video 
+https://drive.google.com/file/d/1faUdFA-0FPY_vb4oipX68MIO1Vl8gguv/view?usp=sharing 
+
 ## Tech Stack
 
 * **Backend:** Python 3.9+
