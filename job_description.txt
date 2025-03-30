@@ -1,0 +1,57 @@
+Job Title: AI Intern
+
+Location: Remote / On-site (Specify Location)Duration: 3-6 MonthsType: InternshipStipend: Competitive / Unpaid (Specify)
+
+About the Role:We are seeking a passionate and motivated AI Intern to join our dynamic team. This internship offers a unique opportunity to gain hands-on experience in the field of artificial intelligence, working on real-world projects that drive innovation and solve complex problems. You will collaborate closely with our AI engineers, data scientists, and software developers to build, train, and deploy machine learning models.
+
+Responsibilities:
+
+Assist in designing, developing, and implementing AI models and algorithms.
+
+Perform data preprocessing, analysis, and visualization to extract insights.
+
+Collaborate with cross-functional teams to integrate AI solutions into applications.
+
+Conduct research on state-of-the-art AI techniques and tools.
+
+Optimize and fine-tune models to improve accuracy and performance.
+
+Document and present findings, experiments, and progress.
+
+Qualifications:
+
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+
+Strong programming skills in Python, with experience in libraries such as TensorFlow, PyTorch, or Scikit-Learn.
+
+Basic knowledge of machine learning, deep learning, and natural language processing (NLP) concepts.
+
+Familiarity with data manipulation and analysis using Pandas, NumPy, or similar tools.
+
+Problem-solving mindset with a passion for learning and experimenting.
+
+Excellent communication and teamwork skills.
+
+Preferred Skills:
+
+Experience with cloud platforms like AWS, Azure, or Google Cloud.
+
+Understanding of computer vision, reinforcement learning, or generative AI.
+
+Knowledge of version control tools like Git.
+
+Familiarity with data engineering and MLOps pipelines.
+
+Benefits:
+
+Mentorship from experienced AI professionals.
+
+Hands-on experience with real-world AI projects.
+
+Networking opportunities and career growth support.
+
+Certificate of completion and recommendation letter (based on performance).
+
+How to Apply:Interested candidates can submit their resume and a brief cover letter detailing their interest and qualifications for the AI Internship role. Please include links to any relevant projects, GitHub repositories, or personal portfolios.
+
+Join us in shaping the future of AI!
